@@ -3,4 +3,4 @@
 #Integrantes
 - Julia Mello
 - Murilo Augusto da Costa
-- Rafael Vicente de Souza-
+- Rafael Vicente de Souza
